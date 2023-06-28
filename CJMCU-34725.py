@@ -1,6 +1,7 @@
 import smbus2
 import time
 
+#chatGPT sample
 # Define the I2C address of the TCS34725 sensor
 SENSOR_ADDRESS = 0x29
 
