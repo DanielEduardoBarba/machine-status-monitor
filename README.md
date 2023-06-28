@@ -1,1 +1,1 @@
-# machine-status-montor
+# machine-status-monitor
